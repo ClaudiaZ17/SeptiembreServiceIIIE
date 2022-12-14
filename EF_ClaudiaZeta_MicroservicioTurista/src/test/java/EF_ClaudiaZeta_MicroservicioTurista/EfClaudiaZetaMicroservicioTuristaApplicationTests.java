@@ -1,0 +1,13 @@
+package EF_ClaudiaZeta_MicroservicioTurista;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EfClaudiaZetaMicroservicioTuristaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
